@@ -1,11 +1,11 @@
 # Azure Secure Connectivity
 Azure Secure Connectivity - VPN/ExpressRoute and Networking
 
-- [ExpressRoute (ER)](https://github.com/dcnsakthi/azsecureconnectivity/tree/main/README.md#expressroute-er)
-- [Virtual Private Network (VPN)](https://github.com/dcnsakthi/azsecureconnectivity/tree/main/README.md#virtual-private-network-vpn)
-    - [Site-to-Site (S2S)](https://github.com/dcnsakthi/azsecureconnectivity/tree/main/README.md#site-to-site-s2s)
-    - [Point-to-Site (P2S)](https://github.com/dcnsakthi/azsecureconnectivity/tree/main/README.md#point-to-site-p2s)
-    - [VNet-to-VNet (V2V)](https://github.com/dcnsakthi/azsecureconnectivity/tree/main/README.md#vnet-to-vnet-v2v)
+- [ExpressRoute (ER)](https://github.com/dcnsakthi/azsecureconnectivity/#expressroute-er)
+- [Virtual Private Network (VPN)](https://github.com/dcnsakthi/azsecureconnectivity/#virtual-private-network-vpn)
+    - [Site-to-Site (S2S)](https://github.com/dcnsakthi/azsecureconnectivity/#site-to-site-s2s)
+    - [Point-to-Site (P2S)](https://github.com/dcnsakthi/azsecureconnectivity/#point-to-site-p2s)
+    - [VNet-to-VNet (V2V)](https://github.com/dcnsakthi/azsecureconnectivity/#vnet-to-vnet-v2v)
 
 #### ExpressRoute (ER)
 ExpressRoute (ER) in Azure is a networking service that provides a dedicated and private connection between your on-premises network and Microsoft Azure. It offers a reliable, low-latency, and high-bandwidth connection that bypasses the public internet, ensuring a secure and consistent data transfer experience.
