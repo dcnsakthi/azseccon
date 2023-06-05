@@ -1,5 +1,5 @@
 # Azure Secure Connectivity
-Azure Secure Connectivity - VPN/ExpressRoute and Networking
+Azure Secure Network Connectivity - ExpressRoute and Virtual Private Network.
 
 - [ExpressRoute (ER)](https://github.com/dcnsakthi/azsecureconnectivity/#expressroute-er)
 - [Virtual Private Network (VPN)](https://github.com/dcnsakthi/azsecureconnectivity/#virtual-private-network-vpn)
@@ -12,7 +12,7 @@ ExpressRoute (ER) in Azure is a networking service that provides a dedicated and
 
 ![image](https://github.com/dcnsakthi/azsecureconnectivity/assets/17950332/01360005-67fd-42bb-b86c-c19d64f8ade0)
 
-[ExpressRoute Reference](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-portal-resource-manager)
+<!-- [ExpressRoute Reference](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-portal-resource-manager) -->
 
 #### Virtual Private Network (VPN)
 A Virtual Private Network (VPN) in Azure is a secure and encrypted connection that allows you to establish a private network connection between your on-premises infrastructure and your Azure resources. It enables secure communication and data transfer between your local network and Azure, extending your on-premises network into the cloud.
